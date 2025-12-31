@@ -1,0 +1,8 @@
+{
+  "name": "Sasa Cam - AI Virtual Persona",
+  "description": "A professional AI-powered face swap and virtual camera dashboard for Sokko Sasa. Intercept your webcam feed, apply target identities, and manage your virtual presence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
